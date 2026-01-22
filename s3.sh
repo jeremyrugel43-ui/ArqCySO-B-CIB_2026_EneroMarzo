@@ -10,6 +10,4 @@ ls -l letra.txt
 chmod 755 letra.txt
 
 # Verificar cambiols
- -l letra.txt
-
- 
+ls -l letra.txt
